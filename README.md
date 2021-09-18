@@ -1,6 +1,7 @@
 # Valve_Calculation
 
 # Industry 4.0.
+![]({https://github.com/DECONTECH/Valve_Calculation/blob/main/Industry_4.jpg})
 
 In 2006, the German government presented its “High-Tech Strategy” at Hannover Messe.
 
