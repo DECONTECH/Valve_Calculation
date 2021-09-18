@@ -1,7 +1,7 @@
 # Valve_Calculation
 
 # Industry 4.0.
-![]({https://github.com/DECONTECH/Valve_Calculation/blob/main/Industry_4.jpg})
+![](https://github.com/DECONTECH/Valve_Calculation/blob/main/Industry_4.jpg)
 
 In 2006, the German government presented its “High-Tech Strategy” at Hannover Messe.
 
@@ -13,7 +13,7 @@ Industrie 4.0 was first mentioned in a clear relationship with the advent of a f
 
 Five years later, in 2011, Dr. Kagermann, Dr. Wolfgang Wahlster of the German Research Center for Artificial Intelligence (DFKI) and Dr. Wolf-Dieter Lukas from the Federal Ministry of Research and Education presented the results of the work of the advisory group across various domains, including Industrie 4.0, which from then on became broadly known.
 
-The business potential of the 4th industrial revolution lies not only in operational process optimization, but also in its services for a wide range of applications. The Internet of Things is therefore complemented by the so-called “Internet of Services”, because smart products offer their capabilities as intelligent services (Industrie 4.0: Mit dem Internet der Dinge auf dem Weg zur 4. industriellen Revolution, 2011) Arcticle (http://www.wolfgang-wahlster.de/wordpress/wp-content/uploads/Industrie_4_0_Mit_dem_Internet_der_Dinge_auf_dem_Weg_zur_vierten_industriellen_Revolution_2.pdf)[1]
+The business potential of the 4th industrial revolution lies not only in operational process optimization, but also in its services for a wide range of applications. The Internet of Things is therefore complemented by the so-called “Internet of Services”, because smart products offer their capabilities as intelligent services (Industrie 4.0: Mit dem Internet der Dinge auf dem Weg zur 4. industriellen Revolution, 2011) [Arcticle](https://drive.google.com/drive/u/1/folders/1YMJUMTsE5ukFkPTMbgTDyX0lsnFaXxcd)
 
 ## What is industry 4.0 ?
 The initial goals in Industry 4.0 typically are automation, (manufacturing) process improvement and productivity/production optimization; the more mature goals are innovation and the transition to new business models and revenue sources with information and services as cornerstones.
