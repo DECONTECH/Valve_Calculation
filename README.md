@@ -1,5 +1,3 @@
-# Valve_Calculation
-
 # Industry 4.0.
 ![](https://github.com/DECONTECH/Valve_Calculation/blob/main/Industry_4.jpg)
 
